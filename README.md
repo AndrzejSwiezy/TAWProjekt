@@ -166,8 +166,7 @@ HTTP CODE: 200 OK
 
 BODY: [
 
-{    
-"id": 3,
+{    "id": 3,
     "nazwa": "Technologie i aplikacje webowe",
     "punkty": 3,
     "sala": 208,
