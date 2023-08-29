@@ -18,13 +18,13 @@ Przykład:
 HTTP CODE: 200 OK 
 
 BODY: [
-    {
-        "id": 1,
-        "nazwa": "Metodologie obiektowe",
-        "punkty": 2,
-        "sala": 216,
-        "egzamin": "tak"
-    },
+{
+"id": 1,
+"nazwa": "Metodologie obiektowe",
+"punkty": 2,
+"sala": 216,
+"egzamin": "tak"
+},
     {
         "id": 2,
         "nazwa": "Testowanie oprogramowania",
