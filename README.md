@@ -18,6 +18,7 @@ Przykład:
 HTTP CODE: 200 OK 
 
 BODY: [
+
 {
 "id": 1,
 "nazwa": "Metodologie obiektowe",
@@ -25,6 +26,7 @@ BODY: [
 "sala": 216,
 "egzamin": "tak"
 },
+
     {
         "id": 2,
         "nazwa": "Testowanie oprogramowania",
@@ -32,6 +34,7 @@ BODY: [
         "sala": 216,
         "egzamin": "nie"
     },
+    
     {
         "id": 3,
         "nazwa": "Technologie i aplikacje webowe",
@@ -39,6 +42,7 @@ BODY: [
         "sala": 208,
         "egzamin": "nie"
     },
+    
     {
         "id": 4,
         "nazwa": "Zarządzanie projektem informatycznym",
@@ -46,6 +50,7 @@ BODY: [
         "sala": 216,
         "egzamin": "nie"
     },
+    
     {
         "id": 5,
         "nazwa": "Zaawansowane technologie bazodanowe",
@@ -53,6 +58,7 @@ BODY: [
         "sala": 208,
         "egzamin": "nie"
     },
+    
     {
         "id": 6,
         "nazwa": "Technologie komponentowe i sieciow",
