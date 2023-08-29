@@ -150,7 +150,8 @@ BODY: [
         "sala": 208,
         "egzamin": "nie"
     },
-    {
+    
+{
         "id": 5,
         "nazwa": "Zaawansowane technologie bazodanowe",
         "punkty": 3,
