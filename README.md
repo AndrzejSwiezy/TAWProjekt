@@ -164,14 +164,15 @@ BODY: [
 
 HTTP CODE: 200 OK 
 
-BODY: {
-    
+BODY: [
+
+{    
 "id": 3,
     "nazwa": "Technologie i aplikacje webowe",
     "punkty": 3,
     "sala": 208,
     "egzamin": "nie"
-}
+}]
 
 7. GET: localhost:8080/test/activities/15
 
