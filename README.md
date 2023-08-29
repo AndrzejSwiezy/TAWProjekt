@@ -19,7 +19,7 @@ HTTP CODE: 200 OK
 
 BODY: [
 {
-zid": 1,
+id": 1,
 "nazwa": "Metodologie obiektowe",
 "punkty": 2,
 "sala": 216,
@@ -72,28 +72,32 @@ zid": 1,
 HTTP CODE: 200 OK 
 
 BODY: [
-    {
+   
+{
         "id": 2,
         "nazwa": "Testowanie oprogramowania",
         "punkty": 1,
         "sala": 216,
         "egzamin": "nie"
     },
-    {
+    
+{
         "id": 3,
         "nazwa": "Technologie i aplikacje webowe",
         "punkty": 3,
         "sala": 208,
         "egzamin": "nie"
     },
-    {
+    
+{
         "id": 4,
         "nazwa": "Zarządzanie projektem informatycznym",
         "punkty": 2,
         "sala": 216,
         "egzamin": "nie"
     },
-    {
+    
+{
         "id": 5,
         "nazwa": "Zaawansowane technologie bazodanowe",
         "punkty": 3,
@@ -107,21 +111,24 @@ BODY: [
 HTTP CODE: 200 OK 
 
 BODY: [
-    {
+
+ {
         "id": 1,
         "nazwa": "Metodologie obiektowe",
         "punkty": 2,
         "sala": 216,
         "egzamin": "tak"
     },
-    {
+    
+{
         "id": 2,
         "nazwa": "Testowanie oprogramowania",
         "punkty": 1,
         "sala": 216,
         "egzamin": "nie"
     },
-    {
+    
+{
         "id": 4,
         "nazwa": "Zarządzanie projektem informatycznym",
         "punkty": 2,
@@ -135,7 +142,8 @@ BODY: [
 HTTP CODE: 200 OK 
 
 BODY: [
-    {
+
+{
         "id": 3,
         "nazwa": "Technologie i aplikacje webowe",
         "punkty": 3,
@@ -156,7 +164,8 @@ BODY: [
 HTTP CODE: 200 OK 
 
 BODY: {
-    "id": 3,
+    
+"id": 3,
     "nazwa": "Technologie i aplikacje webowe",
     "punkty": 3,
     "sala": 208,
@@ -176,35 +185,40 @@ HTTP CODE: 204 NO CONTENT
 HTTP CODE: 200 OK 
 
 BODY: [
-    {
+
+{
         "id": 1,
         "nazwa": "Metodologie obiektowe",
         "punkty": 2,
         "sala": 216,
         "egzamin": "tak"
     },
-    {
+    
+{
         "id": 3,
         "nazwa": "Technologie i aplikacje webowe",
         "punkty": 3,
         "sala": 208,
         "egzamin": "nie"
     },
-    {
+   
+{
         "id": 4,
         "nazwa": "Zarządzanie projektem informatycznym",
         "punkty": 2,
         "sala": 216,
         "egzamin": "nie"
     },
-    {
+   
+{
         "id": 5,
         "nazwa": "Zaawansowane technologie bazodanowe",
         "punkty": 3,
         "sala": 208,
         "egzamin": "nie"
     },
-    {
+   
+{
         "id": 6,
         "nazwa": "Technologie komponentowe i sieciow",
         "punkty": 2,
