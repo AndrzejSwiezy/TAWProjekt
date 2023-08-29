@@ -142,7 +142,6 @@ BODY: [
 HTTP CODE: 200 OK 
 
 BODY: [
-
 {
         "id": 3,
         "nazwa": "Technologie i aplikacje webowe",
